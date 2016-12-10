@@ -8,8 +8,10 @@
 	
 }
 .social-icons{
-	color:white;
 	font-size:40px;
+}
+.social-icons a{
+	color:white;
 }
 .bottom{
 	height:20%;
