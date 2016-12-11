@@ -1,0 +1,10 @@
+flag=1 
+function f1() 
+{ alert("Good Decision!") } 
+function f() 
+{ if(flag==1) 
+{ no.style.top=90 no.style.left=500 flag=2 } 
+else if(flag==2) 
+{ no.style.top=90 no.style.left=50 flag=3 } 
+else if(flag==3) 
+{ no.style.top=235 no.style.left=360 flag=1 } } 
