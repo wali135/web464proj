@@ -1,5 +1,5 @@
 body {
-    background: url('bg.jpeg') no-repeat center center ;
+    background: url('../images/bg.jpeg') no-repeat center center ;
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -72,6 +72,7 @@ html, body {
 	background-color: rgba(47, 50, 56,0.4) ;
 	text-align:center;
 }
+
 
 
 

@@ -58,7 +58,7 @@ function progresscss(){
 	context_css.stroke();
 	if(al_c >= 80){
 		clearTimeout(sim_c);
-	    // Add scripting here that will run when progress completes
+	    
 	}
 	al_c++;
 }
@@ -84,7 +84,7 @@ function progressjs(){
 	context.stroke();
 	if(al >= 60){
 		clearTimeout(sim);
-	    // Add scripting here that will run when progress completes
+	   
 	}
 	al++;
 }
